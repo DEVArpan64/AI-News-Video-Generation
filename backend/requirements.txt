@@ -1,0 +1,27 @@
+# Article2Video - Python Dependencies
+# Install: pip install -r requirements.txt
+
+# Web Framework
+fastapi==0.111.0
+uvicorn[standard]==0.29.0
+python-multipart==0.0.9
+
+# AI / NLP
+openai==1.30.1          # Optional: set OPENAI_API_KEY
+requests==2.32.2        # HuggingFace API calls
+
+# TTS
+gTTS==2.5.1             # Free Google TTS (no key needed)
+pydub==0.25.1           # Audio manipulation
+
+# Image Processing
+Pillow==10.3.0          # Placeholder image generation
+moviepy==1.0.3          # Video assembly
+opencv-python-headless==4.9.0.80
+
+# Data validation
+pydantic==2.7.1
+
+# Utilities
+python-dotenv==1.0.1
+aiofiles==23.2.1
