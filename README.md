@@ -159,13 +159,6 @@ inside:
 
 ---
 
-# 👥 Contributors
-
-- Arpan Kumar Giri
-- Team Members
-
----
-
 # 📄 License
 
 This project is licensed under the MIT License.
